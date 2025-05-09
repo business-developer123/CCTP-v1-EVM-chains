@@ -1,0 +1,67 @@
+{
+  "name": "react-tailwind",
+  "version": "6.0.0",
+  "description": "React and Tailwind CSS Starter Kit",
+  "keywords": [
+    "vite",
+    "react",
+    "tailwindcss"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Amit Agarwal",
+    "email": "amit@labnol.org",
+    "url": "https://digitalinspiration.com/"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "inline": "INLINE=true vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "not ie 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.0.4",
+    "@wormhole-foundation/wormhole-connect": "^2.4.0",
+    "dotenv": "^16.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "@types/node": "^22.13.1",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.19.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-prettier": "^5.2.3",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.18",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "globals": "^15.14.0",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "vite": "^6.1.0",
+    "vite-plugin-singlefile": "^2.1.0",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}

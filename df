@@ -1,0 +1,23 @@
+[33mcommit 452d6acbc9930cc1b701325fe7e963a596311b99[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Power-Howdy <giftedclan0305@gmail.com>
+Date:   Wed Apr 16 19:22:37 2025 -0400
+
+    featL:4/16-solana_dynamic_rpc
+
+[33mcommit 614edead3efe5c0d0012b475da5c5dc3b5e69d90[m
+Author: Power-Howdy <giftedclan0305@gmail.com>
+Date:   Tue Apr 15 22:36:31 2025 -0400
+
+    feat: implement RPC
+
+[33mcommit b8d7cf9c76bdc68781408e42a6014f41e9855abc[m
+Author: Lautro Ifran <lautaroifran.me@gmail.com>
+Date:   Tue Apr 15 19:29:30 2025 -0400
+
+    feat:4/15-completed wallet connection
+
+[33mcommit 1102b96e7f3037c26fe2a6049cf88c87283f4b63[m
+Author: Lautaro Ifran <lautaroifran.me@gmail.com>
+Date:   Sat Apr 12 21:33:28 2025 -0400
+
+    feat: 4/12-completed pvkey bridge
